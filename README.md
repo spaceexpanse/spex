@@ -1,4 +1,4 @@
-# Xaya X
+# Xaya X 
 
 Most of the Xaya platform (in particular,
 [libxayagame](https://github.com/xaya/libxayagame)) is [blockchain
