@@ -1,5 +1,6 @@
 # Xaya X
 
+
 Most of the Xaya platform (in particular,
 [libxayagame](https://github.com/xaya/libxayagame)) is [blockchain
 agnostic](https://xaya.medium.com/xaya-blockchain-agnostic-polygon-b0b3d29cccb3)
